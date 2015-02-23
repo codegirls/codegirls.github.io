@@ -60,13 +60,8 @@ header, section, footer {
  * where
  */
 
-
-#where {
-    margin: 0;
-    padding: 0;
-}
-
 #map {
+    margin-left: -20vw;
     width: 100vw;
     height: 75vh;
 
