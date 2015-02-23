@@ -1,5 +1,7 @@
 # The Code Girls website
 
+**Caution: This is very much *unfinished*. Dragons, bad design & CSS weirdness awaits you.**
+
 This is the source of the Code Girls website.
 
 It is intended to be a landing page for all things Code Girls, with links to further information and resources. It should provide an overview of what we do, what's currently happening and how to contact us.
