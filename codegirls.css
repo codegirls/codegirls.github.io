@@ -90,6 +90,8 @@ header, section, footer {
     height: 75vh;
 
     border: none;
+
+    pointer-events: none;
 }
 
 @media (max-width: 750px), (orientation: portrait) {
