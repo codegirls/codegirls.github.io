@@ -11,7 +11,17 @@ body {
 header, section, footer {
     clear: both;
     margin: auto 20%;
+    display: flex;
+    flex-direction: column;
 }
+
+
+@media (max-width: 750px), (orientation: portrait) {
+    header, section, footer {
+        margin: auto 1em;
+    }
+}
+
 
 
 /*
@@ -35,9 +45,13 @@ header, section, footer {
     justify-content: center;    
 }
 
-@media (max-width: 700px) {
+@media (max-width: 750px), (orientation: portrait) {
     #navigation ul {
         flex-direction: column;
+    }
+
+    #navigation ul li {
+        text-align: center;
     }
 }
 
@@ -57,6 +71,16 @@ header, section, footer {
 
 
 /*
+ * home
+ */
+
+
+#home img {
+    align-self: center;
+}
+
+
+/*
  * where
  */
 
@@ -66,6 +90,13 @@ header, section, footer {
     height: 75vh;
 
     border: none;
+}
+
+@media (max-width: 750px), (orientation: portrait) {
+    #map {
+        margin-left: -1em;
+        height: 50vh;
+    }
 }
 
 
