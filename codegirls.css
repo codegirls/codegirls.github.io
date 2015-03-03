@@ -25,6 +25,10 @@ header, section, footer {
     }
 }
 
+p {
+    text-align: justify;
+}
+
 
 
 /*
@@ -77,6 +81,10 @@ header, section, footer {
  * home
  */
 
+
+#home h2 {
+    text-align: center;
+}
 
 #home img {
     align-self: center;
