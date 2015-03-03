@@ -43,6 +43,7 @@ p {
 #navigation {
     display: flex;
     justify-content: center;
+    background-color: #fbf4fe;
 }
 
 #navigation ul {
