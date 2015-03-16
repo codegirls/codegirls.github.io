@@ -91,6 +91,16 @@ p {
     align-self: center;
 }
 
+#home a {
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
+
+#home a:hover {
+    background-color: #FBF4FE;
+}
+
 
 /*
  * where
@@ -104,6 +114,16 @@ p {
     border: none;
 
     pointer-events: none;
+}
+
+#map a {
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+}
+
+#map a:hover {
+    background-color: #FBF4FE;
 }
 
 @media (max-width: 750px), (orientation: portrait) {
