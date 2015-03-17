@@ -141,8 +141,11 @@ p {
 
 footer {
     font-size: smaller;
-    text-align: center;
     color: #555;
+}
+
+footer p {
+    text-align: center;
 }
 
 footer a {
