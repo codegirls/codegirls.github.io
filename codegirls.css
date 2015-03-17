@@ -27,6 +27,7 @@ header, section, footer {
 
 p {
     text-align: justify;
+    margin: 10px 0;
 }
 
 
