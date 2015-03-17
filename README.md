@@ -10,14 +10,13 @@ Further long-form content should go in a blog, which could also be hosted here. 
 
 ## Resources
 
-http://css-tricks.com/snippets/css/a-guide-to-flexbox/
-http://codepen.io/team/lincolnloop/blog/flexboxfridays
-http://chriswrightdesign.com/experiments/using-flexbox-today/#
-http://madebymike.com.au/writing/understanding-flexbox/
-http://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- http://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- http://codepen.io/team/lincolnloop/blog/flexboxfridays
+- http://chriswrightdesign.com/experiments/using-flexbox-today/
+- http://madebymike.com.au/writing/understanding-flexbox/
+- http://css-tricks.com/snippets/css/a-guide-to-flexbox/
 
-http://www.sketchingwithcss.com/samplechapter/cheatsheet.html
+- http://www.sketchingwithcss.com/samplechapter/cheatsheet.html
 
-
-http://templated.co/
-http://html5up.net/
+- http://templated.co/
+- http://html5up.net/
