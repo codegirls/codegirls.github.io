@@ -88,6 +88,20 @@ p {
 
 
 /*
+ * current
+ */
+
+
+#current {
+    margin-top: 2.5em;
+    padding: 5px;
+    border: 0.25ex dotted black;
+    border-radius: 5px;
+    color: #a000c0;
+}
+
+
+/*
  * home 
  */
 
