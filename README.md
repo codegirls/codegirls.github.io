@@ -1,6 +1,6 @@
 # The Code Girls website
 
-**Caution: This is very much *unfinished*. Dragons, bad design & CSS weirdness awaits you.**
+**Caution: This is somewhat *unfinished*.  There may be a few glitches here and there still.  But it's pretty!**
 
 This is the source of the Code Girls website.
 
