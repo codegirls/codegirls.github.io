@@ -162,3 +162,28 @@ footer p {
 footer a {
     color: #333
 }
+
+
+/*
+ * Subscribe button
+ */
+#subscribe {
+  position: fixed;
+  right: 0;
+  bottom: 50%;
+  text-decoration: none;
+  color: black;
+  text-align: center;
+  background-color: #fbf4fe;
+  padding: 1em;
+}
+
+#subscribe p {
+  margin: 0;
+}
+
+@media (max-width: 750px), (orientation: portrait) {
+  #subscribe {
+    position: relative;
+  }
+}
