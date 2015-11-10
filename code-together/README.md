@@ -3,7 +3,7 @@ title: Code Together!
 permalink: /code-together/index.html
 ---
 
-# Code Together
+# Code Together!
 
 Let's write an app together!
 
