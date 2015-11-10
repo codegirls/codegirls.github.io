@@ -1,6 +1,6 @@
 ---
 title: Code Together!
-permalink: /index.html
+permalink: /code-together/index.html
 ---
 
 # Code Together
